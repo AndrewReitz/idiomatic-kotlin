@@ -1,0 +1,8 @@
+= Idiomatic Kotlin in a Java World
+
+Code from talk given at Gr8Conf US 2018
+
+== Other Reproduces
+
+* https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84[Mastering Kotlin Standard Functions] mentioned in the standard fuctions section
+* https://www.youtube.com/results?search_query=how+to+kotlin[How to Kotlin]

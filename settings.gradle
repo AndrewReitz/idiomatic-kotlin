@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-in-java-world'
+rootProject.buildFileName = 'build.gradle.kts'
+
